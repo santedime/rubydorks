@@ -21,7 +21,7 @@ To install RubyDorks, follow these steps:
 1. Clone the RubyDorks repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/rubydorks.git
+    git clone https://github.com/santedime/rubydorks.git
     ```
 
 2. Navigate to the RubyDorks directory:
